@@ -1,5 +1,6 @@
-# Auto Code Report Generation--IBM
-This repository contains the public release code for our new accepted paper: HAConvGNN: Hierarchical Attention Based Convolutional Graph NeuralNetwork for Code Documentation Generation in Jupyter Notebooks
+# Slide4N BAck End
+This repository contains the public release code for the back end of our new accepted paper: Slide4N: Creating Presentation Slides from Computational Notebooks with Human-AI Collaboration
+
 
 The related package requirement is in the requirement.txt file.
 
