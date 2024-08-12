@@ -1,4 +1,4 @@
-# Slide4N BAck End
+# Slide4N Back End
 This repository contains the public release code for the back end of our new accepted paper: Slide4N: Creating Presentation Slides from Computational Notebooks with Human-AI Collaboration
 
 
